@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * Unit test for simple App. Made with archetype:create ...
  */
 public class AppTest 
     extends TestCase
